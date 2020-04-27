@@ -54,6 +54,7 @@ class FirstPageActivity : BaseActivity() {
                                 taipeiDataMinTData = element
                             }
                         }
+                        return@forEach
                     }
                 }
                 initRv()
